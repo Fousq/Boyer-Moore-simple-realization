@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string.h>//or cstring
 using namespace std;
 
 bool boyera_mura(string str, string substr);
